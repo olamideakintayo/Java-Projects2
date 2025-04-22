@@ -30,7 +30,7 @@ public class HighestIntegerCount {
 
 }
 }
-
+	System.out.println("The largest integer is " + largest);
 	if (highestCounter != 0) {
 	System.out.println("The occurence count of the largest number is " + highestCounter);
 	}
