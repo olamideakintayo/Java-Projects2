@@ -20,7 +20,7 @@ public class Palindrome {
 	while (true) {
 	
 	if (num < 10000 || num > 99999) {
-	System.out.print("This Number is not a Palindrome Number");
+	System.out.print("Error! Please enter a five digit number");
 	break;
 	}
 
